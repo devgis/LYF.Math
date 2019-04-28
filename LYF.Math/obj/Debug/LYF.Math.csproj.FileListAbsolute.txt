@@ -1,0 +1,12 @@
+E:\Temp\LYF.Math\LYF.Math\bin\Debug\LYF.Math.dll
+E:\Temp\LYF.Math\LYF.Math\bin\Debug\LYF.Math.pdb
+E:\Temp\LYF.Math\LYF.Math\obj\Debug\LYF.Math.dll
+E:\Temp\LYF.Math\LYF.Math\obj\Debug\LYF.Math.pdb
+E:\Temp\LYF.Math\Code\LYF.Math\bin\Debug\LYF.Math.dll
+E:\Temp\LYF.Math\Code\LYF.Math\bin\Debug\LYF.Math.pdb
+E:\Temp\LYF.Math\Code\LYF.Math\obj\Debug\LYF.Math.dll
+E:\Temp\LYF.Math\Code\LYF.Math\obj\Debug\LYF.Math.pdb
+E:\Temp\LYF.Math\LYF.Math\LYF.Math\bin\Debug\LYF.Math.dll
+E:\Temp\LYF.Math\LYF.Math\LYF.Math\bin\Debug\LYF.Math.pdb
+E:\Temp\LYF.Math\LYF.Math\LYF.Math\obj\Debug\LYF.Math.dll
+E:\Temp\LYF.Math\LYF.Math\LYF.Math\obj\Debug\LYF.Math.pdb
